@@ -1,0 +1,26 @@
+{
+    "short_name": "Restaurant reviews",
+    "name": "Restaurants details categorized by cuisin and with reviews",
+    "icons": [
+      {
+        "src": "launcher-icon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "launcher-icon.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "launcher-icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html",
+    "theme_color": "#f58500",
+    "orientation": "landscape",
+    "background_color": "white",
+    "display": "standalone"
+  }
